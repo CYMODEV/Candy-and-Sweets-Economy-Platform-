@@ -1,5 +1,5 @@
 # Candy-Ecosystem-Platform-
-Public disclosure, funding statement, and value proposition for the Candyman platform. It’s structured for investors, contributors, and developers can all quickly understand the vision, compliance posture, and opportunity.
+Public disclosure, funding statement, and value proposition for the Candy platform. It’s structured for investors, contributors, and developers can all quickly understand the vision, compliance posture, and opportunity.
 
 ---
 
@@ -36,7 +36,7 @@ Milestones Unlocked:
 
 Value Proposition
 
-Candyman is more than a mascot — it’s the engine of a self‑sustaining ecosystem:
+Candyman/Candykid is more than a mascot — it’s the engine of a self‑sustaining ecosystem:
 
 • For Users: Learn → Earn → Trade → Grow. Kids and families gain real financial literacy while having fun.
 • For Partners: Retailers and candy makers tap into new engagement channels, tokenized promotions, and market insights.
