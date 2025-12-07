@@ -14,7 +14,7 @@ Candy ecosystem platform is an experimental gamified economic engine designed to
 
 Investor Funding
 
-We are currently raising a $5M Seed Round to accelerate platform development and commercialization.
+We are currently raising a $5M Seed Round to accelerate platform development and commercialization. investment    candykid.cb.id
 Use of Funds:
 
 • 40% Product Development: Wallet, Index Engine, gamified learning modules, smart contract audits
